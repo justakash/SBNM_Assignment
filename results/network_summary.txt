@@ -1,0 +1,15 @@
+Dataset: BioGRID 5.0.263
+Organism: Homo sapiens
+Taxonomy ID: 9606
+Interaction type: Physical
+Network type: Undirected
+
+Total nodes: 20,890
+Total edges: 989,498
+Connected components: 2
+Largest component: 20,888 nodes
+Smaller component: 2 nodes
+Smaller component protein IDs: 2837, 257313
+Network density: 0.004535
+Isolated nodes: 0
+Self-loops: 0

@@ -1,0 +1,45 @@
+BioGRID Human Physical PPI — Degree Summary
+=============================================
+
+Dataset
+-------
+Source: BioGRID
+Release: 5.0.263
+Organism: Homo sapiens
+Taxonomy ID: 9606
+Interaction type: Physical
+Network type: Undirected
+
+Network statistics
+------------------
+Number of proteins (nodes): 20,890
+Number of unique interactions (edges): 989,498
+Connected components: 2
+Largest connected component: 20,888 nodes
+Smaller connected component: 2 nodes
+Network density: 0.004535
+Average degree: 94.73
+Minimum degree: 1
+Maximum degree: 5,335
+Isolated nodes: 0
+Self-loops: 0
+
+Top 10 hub proteins
+-------------------
+Entrez Gene ID    Degree
+11051             5335
+440730            4834
+54764             4162
+5071              3418
+3609              3383
+8452              3162
+6117              3064
+4609              2986
+57664             2969
+25962             2949
+
+Notes
+-----
+Protein identifiers are Entrez Gene IDs. Gene symbols have not yet been
+mapped. The network contains one giant connected component and one
+two-node component (Entrez Gene IDs 2837 and 257313).

@@ -1,0 +1,34 @@
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter files
+.ipynb_checkpoints/
+
+# IDE and operating system files
+.idea/
+.DS_Store
+
+# Raw BioGRID dataset
+data/raw/
+*.tab3.txt
+*.tab3.txt.zip
+
+# Large intermediate datasets
+human_physical_ppi.tsv
+ppi_edges.tsv
+ppi_edges_clean.tsv
+
+# Full-graph exploratory embeddings
+results/node2vec_baseline_embeddings.txt
+
+# Temporary files
+*.tmp
+*.part

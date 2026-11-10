@@ -1,0 +1,2 @@
+method,p,q,dimensions,walk_length,num_walks,roc_auc,average_precision
+Node2Vec,1,1,64,10,5,0.8675417999999999,0.8836553279408565
