@@ -458,3 +458,9 @@ The original BioGRID dataset must be downloaded separately and is not included i
 
 - Grover, A., & Leskovec, J. (2016). *node2vec: Scalable Feature Learning for Networks*. Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
 - BioGRID: <https://thebiogrid.org/> (Release 5.0.263, *Homo sapiens*, Taxonomy ID 9606, physical interactions)
+
+## AI Use Disclosure
+
+OpenAI ChatGPT (GPT-6) & Claude (opus 4.8) was used as an AI assistance tool during this project for technical guidance, Python code troubleshooting, debugging, documentation refinement, and feedback on project structure and presentation of results.
+
+The implementation, experimental decisions, validation of results, and final scientific interpretations were reviewed by the author. The research synopsis and biological interpretation represent the author's own understanding and work.
